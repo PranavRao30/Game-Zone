@@ -21,15 +21,15 @@ Within our digital arcade, the games that can be found are given below:
 - Feedback Generation: The provide_feedback function analyzes the player's guess and
 provides feedback using symbols ('●', '○', '×').
 - Input Validation: The main game loop ensures that the player's input is a valid 4-digit code.
-- Here are some screenshots to show the gameplay
+- Here are some screenshots to show the gameplay<br><br>
 ![WhatsApp Image 2024-03-06 at 8 58 13 PM](https://github.com/PranavRao30/Game-Zone/assets/128824573/746511e7-ff1b-4b3b-8f64-9351f552e9c6)
-  <br>
+ <br><br>
 ![WhatsApp Image 2024-03-06 at 8 58 05 PM](https://github.com/PranavRao30/Game-Zone/assets/128824573/e31074b1-be79-4c06-b8e7-db954f015f11)
- <br>
+ <br><br>
 ![WhatsApp Image 2024-03-06 at 8 58 37 PM](https://github.com/PranavRao30/Game-Zone/assets/128824573/70105e3a-6a53-49b3-8b67-e3105b05a2f6)
- <br>
+<br><br>
 ![WhatsApp Image 2024-03-06 at 8 58 46 PM](https://github.com/PranavRao30/Game-Zone/assets/128824573/ebc45744-980f-4f5b-b5c5-b4d4852859ef)
- <br>
+ <br><br>
 ## 2.Memory Sequence
 
 
