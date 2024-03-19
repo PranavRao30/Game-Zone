@@ -14,6 +14,6 @@ Within our digital arcade, the games that can be found are given below:
 
 - <b>Word Scramble</b>: Unscramble your way through a myriad of letters to uncover hidden words. With each correct guess, expand your vocabulary and conquer the scramble.
 ## Technologies used
-- <b>HTML</b>
-- <b>CSS</b>
-- <b>JavaScript</b>
+- <b>BASH and BASH scripting</b>
+
+
