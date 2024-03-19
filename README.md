@@ -31,5 +31,16 @@ provides feedback using symbols ('●', '○', '×').
 ![WhatsApp Image 2024-03-06 at 8 58 46 PM](https://github.com/PranavRao30/Game-Zone/assets/128824573/ebc45744-980f-4f5b-b5c5-b4d4852859ef)
  <br><br>
 ## 2.Memory Sequence
-
-
+- Random Number Generation: The generate_number function generates a random number
+between 1 and 9 to build the memory sequence.
+- Display Sequence: The display_sequence function uses Zenity to show the generated
+sequence to the user.
+- Input Validation: The check_input function validates the user's input against the
+generated sequence, ensuring accuracy.
+- Here are some screenshots to show the gameplay<br><br>
+![WhatsApp Image 2024-03-06 at 8 54 35 PM](https://github.com/PranavRao30/Game-Zone/assets/128824573/0798cc24-2dbd-4eaf-b9d5-b5b9dc759e4e)
+<br><br>
+![WhatsApp Image 2024-03-06 at 8 54 17 PM - Copy](https://github.com/PranavRao30/Game-Zone/assets/128824573/d48c03da-7a4d-4f55-b957-30957f567ea3)
+<br><br>
+![WhatsApp Image 2024-03-06 at 8 54 55 PM](https://github.com/PranavRao30/Game-Zone/assets/128824573/f6b179bd-991f-465e-9e4d-b064717524fb)
+<br><br>
